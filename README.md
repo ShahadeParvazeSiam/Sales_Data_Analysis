@@ -94,6 +94,10 @@ The dataset contains **11,251 records** with information about customers, orders
 ---
 
 ## 📁 Project Structure  
-├── Sales Data.csv # Dataset
-├── sales.ipynb # Jupyter Notebook (EDA & Visualization)
-└── README.md # Project Documentation
+
+```
+├── Sales Data.csv          # Dataset  
+├── sales.ipynb             # Jupyter Notebook (EDA & Visualization)  
+└── README.md               # Project Documentation  
+```
+
