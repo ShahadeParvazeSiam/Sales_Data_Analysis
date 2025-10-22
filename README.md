@@ -1,4 +1,5 @@
 🛍️ Sales Data Analysis
+
 📊 Project Overview
 
 This project focuses on analyzing customer purchasing behavior and sales performance using a real-world sales dataset. The goal was to uncover meaningful insights about demographics, spending trends, and regional performance to guide data-driven business decisions.
